@@ -2,7 +2,7 @@
 ==
 
 
-Estudando Desenvolvimento Full Stack na Cubos Academy! 📚 
+Estudante de Desenvolvimento Full Stack na Cubos Academy! 📚 
 ***
 
 
