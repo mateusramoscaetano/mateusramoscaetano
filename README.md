@@ -23,8 +23,8 @@ Desenvolvedor Full Stack em formação na Cubos Academy! 📚
 
 *Coming soon* 🔧...  
 
-![html]([https://img.shields.io/badge/%20-html-red](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white))
-![css]([https://img.shields.io/badge/%20-css-blue](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white))
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![react](https://img.shields.io/badge/%20-react-lightgrey)
 ![node.js](https://img.shields.io/badge/%20-node.js-green)
 ![type](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
