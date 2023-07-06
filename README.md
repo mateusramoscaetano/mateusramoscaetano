@@ -18,12 +18,12 @@ Desenvolvedor Full Stack em formação na Cubos Academy! 📚
 *Current Skills* 🔧:  
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,ts,postgres)](https://skillicons.dev)
 
 
 *Coming soon* 🔧...  
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nest)](https://skillicons.dev)
 
 Contatos:
 
